@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+
+int main() {
+    std::string major = "车辆工程";
+    std::string name = "冯爽";
+  
+    std::cout << "================" << std::endl;
+    std::cout << "专业：" << major << std::endl;
+    std::cout << "姓名：" << name << std::endl;
+    std::cout << "================" << std::endl;
+    
+    return 0;
+}
