@@ -1,4 +1,5 @@
 #include <iostream>
-int main(){
-    std::cout<<"曾宇轩\n生物医学工程"<<std::endl;
+void main(){
+    using namespace std;
+    cout<<"龙蜀炎\n人工智能"<<std::endl;
 }
